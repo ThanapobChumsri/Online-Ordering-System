@@ -38,10 +38,10 @@ var chart = new CanvasJS.Chart("chartContainer", {
 	animationEnabled: true,
 	theme: "light2",
 	title:{
-		text: "Grwonth Trend"
+		text: "Growth Trend"
 	},
 	axisY: {
-		title: "Grwonth Trend (in baht)"
+		title: "Growth Trend (in baht)"
 	},
 	data: [{
 		type: "column",
